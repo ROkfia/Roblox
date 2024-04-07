@@ -8,7 +8,8 @@
 
 ### Showcase
 
- 
+ ![image](https://github.com/ROkfia/Roblox/assets/166298774/3f2d4205-2c96-4904-bc40-98e9c12bdaa1)
+
 ### How It Works:
 Download and Install: 
 Get the Setup from this repository and follow the installation instructions. 
